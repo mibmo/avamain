@@ -1,4 +1,11 @@
 # Avamain
+A domain availabilty checker.
+
+### Installation
+Avamain is available on the crates.io registry, and can be install with cargo.
+```sh
+cargo install avamain
+```
 
 ### Usage
 Specify 3 environment variables; `TLD`, `CHARSET`, and `LENGTH`.
